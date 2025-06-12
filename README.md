@@ -1,4 +1,4 @@
-# 💻 Cafe Management System in C
+# 💻 Cafe Management System in C Language
 Sistem manajemen cafe sederhana berbasis bahasa pemrograman C. Program ini menyediakan dua role utama, yaitu Admin dan Customer, dengan fitur interaktif berbasis menu di terminal. Data menu dan transaksi disimpan dalam file .txt untuk memastikan keberlangsungan data antar sesi.
 
 ## 🎯 Fitur Utama
